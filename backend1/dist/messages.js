@@ -1,0 +1,5 @@
+export const INIT_GAME = "init_game";
+export const MOVE = "move";
+export const GAME_OVER = "game_over";
+export const OPPONENT_LEFT = "opponent_left";
+//# sourceMappingURL=messages.js.map

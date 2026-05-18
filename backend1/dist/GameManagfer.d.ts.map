@@ -1,0 +1,1 @@
+{"version":3,"file":"GameManagfer.d.ts","sourceRoot":"","sources":["../src/GameManagfer.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,SAAS,MAAM,IAAI,CAAC;AAIhC,qBAAa,WAAW;IACpB,OAAO,CAAC,KAAK,CAAS;IACtB,OAAO,CAAC,WAAW,CAAmB;IACtC,OAAO,CAAC,KAAK,CAAc;;IAQ3B,OAAO,CAAC,MAAM,EAAE,SAAS;IAOzB,UAAU,CAAC,MAAM,EAAE,SAAS;IAiC5B,OAAO,CAAC,UAAU;CA6DrB"}
